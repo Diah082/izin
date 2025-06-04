@@ -8,8 +8,8 @@
 ### CHANGE AUTO ROOT FOR DEBIAN & UBUNTU THANKS FOR MAINTEBOT
 <pre><code>sudo bash && apt install wget -y && rm -f gasss-root.sh && apt install wget whois -y && wget https://raw.githubusercontent.com/maintebot/change-root/main/gasss-root.sh && chmod +x gasss-root.sh && ./gasss-root.sh && rm gasss-root.sh</code></pre>
 
-### INSTALL SCRIPT TAMBAHKAN NAMA SCRIPT DAN DOMAIN KMU UNTUK MENJALAKAN INSTALL
-### CONTOH ./INSTALL NEWBIE_STORE DOMAINKEREN.COM
+### INSTALL SCRIPT TAMBAHKAN NAMA SCRIPT DAN DOMAIN KAMU SETELAH ./Install.sh UNTUK MENJALAKAN INSTALL
+### CONTOH PENULISAN DI AKHIR [screen -S install ./Install.sh NEWBIE_STORE DOMAINKEREN.COM ]
 <pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/Diah082/vip/main/Install.sh && chmod +x Install.sh && screen -S install ./Install.sh 
 </code></pre>
 
@@ -59,4 +59,4 @@
 ### Auther
 
 ### CONTACT NEWBIE <br>
-<a href="https://t.me/newbie_store24" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282326322300" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/newbie_store242" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282326322300" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
