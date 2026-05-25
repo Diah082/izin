@@ -10,7 +10,7 @@
 
 ### INSTALL SCRIPT TAMBAHKAN NAMA SCRIPT DAN DOMAIN KAMU SETELAH ./Install.sh UNTUK MENJALAKAN INSTALL
 ### CONTOH PENULISAN DI AKHIR [screen -S install ./Install.sh NEWBIE_STORE DOMAINKEREN.COM ]
-<pre><code>apt update -y && apt install -y wget curl jq screen && wget -qO install-handler.sh "https://raw.githubusercontent.com/Diah082/vip/main/install-handler.sh" && chmod +x install-handler.sh && ./install-handler.sh 
+<pre><code>apt update -y && apt upgrade -y && apt install -y wget curl jq screen && wget -qO install-handler.sh "https://raw.githubusercontent.com/Diah082/vip/main/install-handler.sh" && chmod +x install-handler.sh && ./install-handler.sh 
 </code></pre>
 
 ### PERINTAH UPDATE 
